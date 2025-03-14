@@ -1,0 +1,28 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="danielkasai.net/kleinerlord" resolutions="1x" timestamp="1449046036441">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="4037814337" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3883484123" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted svg 940x1118.svg" crc="43314961" ref="index"/>
+    <file name="pasted svg 940x1118_poster_.png" crc="4188303590" ref="index"/>
+    <file name="grundriss schloiss_bearb.jpg" crc="510551932" seo="true" ref="index"/>
+    <file name="bed-room-animation.gif" crc="4093810632" seo="true" ref="index"/>
+    <file name="castle-back-animation.gif" crc="435856530" seo="true" ref="index"/>
+    <file name="belvoir-castle-animation.gif" crc="3939368549" seo="true" ref="index"/>
+    <file name="spalier-animation.gif" crc="219530448" seo="true" ref="index"/>
+    <file name="guard-room-animation.gif" crc="3920182525" seo="true" ref="index"/>
+    <file name="dining-room-animation-v2.gif" crc="3786390200" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4109965034" seo="true" mt="1448918545541" redirect="true"/>
+</manifest>
